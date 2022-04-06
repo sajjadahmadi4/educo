@@ -1,0 +1,18 @@
+:root {
+  --body-background: #e2e8f0;
+}
+
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: var(--body-background);
+}
+html h1,
+body h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
